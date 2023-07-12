@@ -18,6 +18,8 @@ export const {
       green500: '#81C046',
       red500: '#DE482B',
       yellow: '#FCCF03',
+
+      white: '#FFFFFF',
     },
     fontSizes: {
       xs: '0.75rem',
